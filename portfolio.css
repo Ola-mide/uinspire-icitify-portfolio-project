@@ -503,10 +503,10 @@ body {
 
 /* Gradient backgrounds for project images */
 .work-item:first-child .work-image {
-    background: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 250"><rect width="400" height="250" fill="%23ff6b35"/><path d="M50 50h100v150h-100z" fill="%23f7931e"/><path d="M200 50h100v150h-100z" fill="%232e8b57"/><circle cx="300" cy="125" r="50" fill="%234169e1"/></svg>');
+    background: url("./images/image1.png");
     background-size: cover;
 }
 
 .work-item:last-child .work-image {
-    background: linear-gradient(135deg, #ff9a8b, #fecfef, #fecfef, #a8edea);
+    background: url("./images/image2.png");
 }
